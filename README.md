@@ -2,8 +2,9 @@
 
 Holiday Card Page
 
-* Add funny clip art (presents, bows, etc)
-* Play holiday music
+* Gather Holiday Effects
+  * clip art (presents, bows)
+  * backgrounds
+  * music
 * Take webcam photo
-* Add holiday border
-* Snow background
+* Add holiday effects
